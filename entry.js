@@ -1,3 +1,3 @@
-require('!style!css!./index.css');
+require('./index.css');
 
-document.write('hello, css loader');
+document.write('it works');
