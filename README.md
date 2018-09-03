@@ -2,9 +2,10 @@ Webpack Css Loader Config Demo
 ==============================
 
 ```
-npm install -g webpack
 npm install
-webpack
+npm run demo
 ```
 
 Then open `index.html`.
+
+![demo](./images/demo.jpg)

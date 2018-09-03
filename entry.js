@@ -1,3 +1,3 @@
-require('./index.css');
+require('./index.css')
 
-document.write('it works');
+document.write('page should have a yellow background')
